@@ -1,0 +1,23 @@
+{
+  "name": "twist-screw",
+  "version": "1.0.0",
+  "description": "Spatial motion",
+  "main": "mcts.mjs",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PeterTadich/twist-screw.git"
+  },
+  "author": "Peter Tadich",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/PeterTadich/twist-screw/issues"
+  },
+  "homepage": "https://github.com/PeterTadich/twist-screw#readme",
+  "dependencies": {
+    "matrix-computations": "git+https://github.com/PeterTadich/matrix-computations.git",
+    "pseudo-inverse": "git+https://github.com/PeterTadich/pseudo-inverse.git"
+  }
+}
